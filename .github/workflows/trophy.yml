@@ -1,0 +1,25 @@
+name: Generate Profile Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=R16-Code&theme=tokyonight&no-bg=true&no-frame=true'
+          path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add trophy.svg
+          git commit -m "Update trophy card" || exit 0
+          git push
