@@ -27,9 +27,7 @@ I am passionate about technology, specifically focusing on **Web Development** (
 
 ### GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophygh.kolioaris.xyz/?username=R16-Code&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Profile Trophies" />
-  </a>
+  <img src="./trophy.svg" alt="GitHub Profile Trophies" />
 </p>
 
 ---
