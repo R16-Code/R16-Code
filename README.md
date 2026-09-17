@@ -1,7 +1,9 @@
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=220&section=header&text=Ridho%20Nur%20Maulana&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Information%20System%20Student%20%7C%20Web%20%2B%20UI%2FUX%20%2B%20AI%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </p>
 
+<!-- STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Campus-UPN_%22Veteran%22_Yogyakarta-green?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Yogyakarta%2C_Indonesia-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
@@ -26,7 +28,7 @@ I am passionate about technology, specifically focusing on **Web Development** (
 ### GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=R16-Code&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Profile Trophies" />
+    <img src="https://trophygh.kolioaris.xyz/?username=R16-Code&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -75,8 +77,8 @@ I am passionate about technology, specifically focusing on **Web Development** (
 ### GitHub Real-Time Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=R16-Code&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R16-Code&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-extended.vercel.app/api?username=R16-Code&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=R16-Code&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -110,6 +112,7 @@ I am passionate about technology, specifically focusing on **Web Development** (
   </a>
 </p>
 
+<!-- FOOTER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
