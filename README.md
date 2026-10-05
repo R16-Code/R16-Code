@@ -5,9 +5,9 @@
 
 <!-- STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Campus-UPN_%22Veteran%22_Yogyakarta-green?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Yogyakarta%2C_Indonesia-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software_Engineering_%26_AI-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Campus-UPN_%22Veteran%22_Yogyakarta-green?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Campus Badge" />
+  <img src="https://img.shields.io/badge/Location-Yogyakarta%2C_Indonesia-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering_%26_AI-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus Badge" />
 </p>
 
 <br />
@@ -15,64 +15,76 @@
 ---
 
 ### About Me
-Hello! I'm **Ridho Nur Maulana**, an Information System student at **UPN "Veteran" Yogyakarta**.
 
-I am passionate about technology, specifically focusing on **Web Development** (from initial wireframing and design in Figma to functional web builds), **UI/UX Design**, and **Artificial Intelligence**. Currently, I am dedicated to honing my software engineering skills through hands-on mini-projects and experimenting with AI integration into real-world applications.
+Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend architecture, web application development, and system integration. Dedicated to building reliable, high-performance web software through structured engineering practices, modular component design, and responsive user interfaces.
 
-- **Education:** Information System Student @ UPN "Veteran" Yogyakarta
-- **Core Interests:** Web Development, UI/UX Prototyping, and AI-Powered Tools
-- **Current Goal:** Expanding my software engineering portfolio through interactive mini-projects
+- **Institution:** UPN "Veteran" Yogyakarta
+- **Domain Focus:** Software Engineering, Web Systems, UI/UX Architecture
+- **Active Initiatives:** Developing production-grade web applications and exploring browser-native multimedia processing
 
 ---
 
 ### GitHub Trophies
+
 <p align="center">
   <img src="./trophy.svg" alt="GitHub Profile Trophies" />
 </p>
 
 ---
 
-### Featured Project: NOVA — AI Voice Assistant
+### Featured Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U1NmRyZDFyZjA4dDRscnhuN3JnaTBpNGt1NW93NmxqdWk4M294NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Robot AI HUD GIF" />
+#### [KlipKlap](https://github.com/r16-code/KlipKlap)
+
+Web-based photobooth and studio image editor application.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Canvas" />
 </p>
 
-**NOVA** is a smart virtual voice assistant (similar to JARVIS) built with Python. It bridges natural conversational AI with direct local system control and automation.
+- Live camera streaming via HTML5 MediaDevices / webcam hook integration.
+- Dynamic canvas composition engine for custom frames, filters, and photo strips.
+- State-driven studio controls including photo reordering and slot calibration.
 
-#### Key Features & Capabilities:
-- **Natural Two-Way Conversation:** Powered by LLM and Text-to-Speech (TTS) integration for fluid interaction.
-- **Spotify Music Control:** Automatic track searching, playing, and launching directly in Spotify.
-- **System & App Launcher:** Opens desktop applications (WhatsApp, Roblox, IDEs) and opens URLs/searches via Google Chrome.
-- **Media & Volume Management:** Controls master volume, system mute, and plays/pauses media seamlessly.
-- **One-Shot Productivity Mode:** Automatically triggers a custom workspace setup by opening Spotify, your IDE, Gemini, and ChatGPT simultaneously.
-- **Utility & System Controls:** Sets timers/reminders, fetches real-time weather reports, and executes PC power controls (Sleep and Shutdown).
-- **Dual-Clap Sensor Listener:** Features background sound triggers via double-clap listener for fast hands-free execution.
+[Source Code](https://github.com/r16-code/KlipKlap) | [Live Demo](https://klipklap-studio.vercel.app)
 
 ---
 
-### Tech Arsenal
+### Technical Arsenal
 
-#### Frontend & Design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+#### Frontend & UI Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-#### Backend & Programming
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+#### Backend & Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
 
-#### AI, Tools & Environment
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Antigravity Editor](https://img.shields.io/badge/IDE-Antigravity-61DAFB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### Tooling & Environment
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-### GitHub Real-Time Activity
+### GitHub Activity & Analytics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-extended.vercel.app/api?username=R16-Code&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
@@ -89,24 +101,17 @@ I am passionate about technology, specifically focusing on **Web Development** (
 
 ---
 
-### Daily Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
-### Connect with Me
+### Connect
 
 <p align="center">
   <a href="mailto:ridhonurmaulana25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://my-portofolio-website-theta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="https://instagram.com/ridhoonn">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
