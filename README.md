@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Focus-Software_Engineering_%26_AI-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus Badge" />
 </p>
 
-<br />
+<p align="center">
+  <img src="./assets/welcome.gif" alt="Welcome Banner" />
+</p>
 
 ---
 
@@ -38,7 +40,7 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
 
 <p align="left">
   <a href="https://github.com/r16-code/KlipKlap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=KlipKlap&theme=tokyonight" alt="KlipKlap Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=KlipKlap&theme=tokyonight&cache_seconds=1800" alt="KlipKlap Repository" />
   </a>
 </p>
 
@@ -86,6 +88,12 @@ Web-based photobooth and studio image editor application.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/forest.gif" width="100%" alt="Forest Pixel Art Banner" />
 </p>
 
 ---
