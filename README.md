@@ -34,7 +34,13 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
 
 ### Featured Projects
 
-#### [KlipKlap](https://github.com/r16-code/KlipKlap)
+#### 001 // KlipKlap
+
+<p align="left">
+  <a href="https://github.com/r16-code/KlipKlap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=KlipKlap&theme=tokyonight" alt="KlipKlap Repository" />
+  </a>
+</p>
 
 Web-based photobooth and studio image editor application.
 
@@ -97,6 +103,12 @@ Web-based photobooth and studio image editor application.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=R16-Code&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/cozy-gif.gif" width="100%" alt="Cyberpunk City Pixel Art Banner" />
 </p>
 
 ---
