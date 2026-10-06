@@ -5,7 +5,7 @@
 
 <!-- RETRO DIALOG TYPING BOX -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=DA3633&background=161B2200&center=true&vCenter=true&width=520&height=36&lines=Welcome+to+the+Citadel+Archives.;Class:+Software+Engineer+%26+Frontend+Architect.;Forging+resilient+systems+in+the+dark." alt="Citadel Terminal Dialog" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=DA3633&background=161B2200&center=true&vCenter=true&width=600&height=36&lines=Welcome+to+the+Citadel+Archives.;Class:+Software+Engineer+%26+Frontend+Architect.;Forging+resilient+systems+in+the+dark." alt="Citadel Terminal Dialog" />
 </p>
 
 <!-- STATUS BADGES -->
@@ -72,7 +72,7 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
     <td width="50%" align="center" valign="top">
       <h4>Web Profil Gatak-Pendem</h4>
       <a href="https://github.com/R16-Code/web-profil-gatak-pendem">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=web-profil-gatak-pendem&bg_color=0d1117&border_color=30363d&title_color=f85149&text_color=8b949e&icon_color=da3633&cache_seconds=1800" width="100%" alt="Web Profil Gatak-Pendem Repository" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=web-profil-gatak-pendem&bg_color=0d1117&border_color=30363d&title_color=f85149&text_color=8b949e&icon_color=da3633&v=2" width="100%" alt="Web Profil Gatak-Pendem Repository" />
       </a>
       <p>
         Public village information portal and digital MSME catalog.
