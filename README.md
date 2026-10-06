@@ -94,7 +94,7 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
 <h4 align="center">Frontend & UI Engineering</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=white&labelColor=82071e" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=white&labelColor=82071e" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css&logoColor=white&labelColor=82071e" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white&labelColor=82071e" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white&labelColor=82071e" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB&labelColor=82071e" alt="React" />
@@ -114,7 +114,7 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
   <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white&labelColor=82071e" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white&labelColor=82071e" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=white&labelColor=82071e" alt="Vite" />
-  <img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=82071e" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==&labelColor=82071e" alt="VS Code" />
 </p>
 
 <br />
