@@ -32,33 +32,60 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
 
 ---
 
-### Featured Project: KlipKlap
+### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/r16-code/KlipKlap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=KlipKlap&bg_color=0d1117&border_color=30363d&title_color=f85149&text_color=8b949e&icon_color=da3633&cache_seconds=1800" alt="KlipKlap Repository" />
-  </a>
-</p>
-
-<p align="center">
-  Web-based photobooth and studio image editor application.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB&labelColor=82071e" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white&labelColor=82071e" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=white&labelColor=82071e" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=82071e" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5_Canvas-161b22?style=flat-square&logo=html5&logoColor=white&labelColor=82071e" alt="HTML5 Canvas" />
-</p>
-
-- Live camera streaming via HTML5 MediaDevices / webcam hook integration.
-- Dynamic canvas composition engine for custom frames, filters, and photo strips.
-- State-driven studio controls including photo reordering and slot calibration.
-
-<p align="center">
-  <a href="https://github.com/r16-code/KlipKlap">[Source Code]</a> &nbsp;|&nbsp; <a href="https://klipklap-studio.vercel.app">[Live Demo]</a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>KlipKlap</h4>
+      <a href="https://github.com/r16-code/KlipKlap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=KlipKlap&bg_color=0d1117&border_color=30363d&title_color=f85149&text_color=8b949e&icon_color=da3633&cache_seconds=1800" width="100%" alt="KlipKlap Repository" />
+      </a>
+      <p>
+        Web-based photobooth and studio image editor application.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB&labelColor=82071e" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white&labelColor=82071e" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=82071e" alt="Tailwind" /><br />
+        <img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=white&labelColor=82071e" alt="Vite" />
+        <img src="https://img.shields.io/badge/Canvas-161b22?style=flat-square&logo=html5&logoColor=white&labelColor=82071e" alt="Canvas" />
+      </p>
+      <ul align="left">
+        <li>Live camera streaming via HTML5 MediaDevices.</li>
+        <li>Dynamic canvas composition engine for photo strips.</li>
+        <li>State-driven controls for slot calibration.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/r16-code/KlipKlap">[Source Code]</a> &nbsp;|&nbsp; <a href="https://klipklap-studio.vercel.app">[Live Demo]</a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Web Profil Gatak-Pendem</h4>
+      <a href="https://github.com/R16-Code/web-profil-gatak-pendem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=R16-Code&repo=web-profil-gatak-pendem&bg_color=0d1117&border_color=30363d&title_color=f85149&text_color=8b949e&icon_color=da3633&cache_seconds=1800" width="100%" alt="Web Profil Gatak-Pendem Repository" />
+      </a>
+      <p>
+        Public village information portal and digital MSME catalog.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=white&labelColor=82071e" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=white&labelColor=82071e" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white&labelColor=82071e" alt="JavaScript" /><br />
+        <img src="https://img.shields.io/badge/Google_Maps-161b22?style=flat-square&logo=googlemaps&logoColor=white&labelColor=82071e" alt="Google Maps" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-161b22?style=flat-square&logo=whatsapp&logoColor=white&labelColor=82071e" alt="WhatsApp API" />
+      </p>
+      <ul align="left">
+        <li>Responsive community portal with demographic statistics.</li>
+        <li>Interactive local MSME directory with WhatsApp chat automation.</li>
+        <li>Documentation carousel and Google Maps navigation integration.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/R16-Code/web-profil-gatak-pendem">[Source Code]</a> &nbsp;|&nbsp; <a href="https://gatak-pendem.vercel.app/">[Live Demo]</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
