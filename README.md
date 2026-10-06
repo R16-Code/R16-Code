@@ -3,6 +3,11 @@
   <img src="./assets/dungeon-gate.gif" width="100%" alt="Dungeon Gate Banner" />
 </p>
 
+<!-- RETRO DIALOG TYPING BOX -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=DA3633&background=161B2200&center=true&vCenter=true&width=520&height=36&lines=Welcome+to+the+Citadel+Archives.;Class:+Software+Engineer+%26+Frontend+Architect.;Forging+resilient+systems+in+the+dark." alt="Citadel Terminal Dialog" />
+</p>
+
 <!-- STATUS BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Campus-UPN_%22Veteran%22_Yogyakarta-161b22?style=flat-square&logo=google-scholar&logoColor=white&labelColor=82071e" alt="Campus Badge" />
@@ -10,11 +15,11 @@
   <img src="https://img.shields.io/badge/Focus-Software_Engineering_%26_AI-161b22?style=flat-square&logo=codeforces&logoColor=white&labelColor=82071e" alt="Focus Badge" />
 </p>
 
-<br />
+<p align="center">
+  <code>+----------------------- [ RUNIC ARCHIVES ] -----------------------+</code>
+</p>
 
----
-
-### About Me
+### // CHARACTER CODEX
 
 Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend architecture, web application development, and system integration. Dedicated to building reliable, high-performance web software through structured engineering practices, modular component design, and responsive user interfaces.
 
@@ -22,17 +27,21 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
 - **Domain Focus:** Software Engineering, Web Systems, UI/UX Architecture
 - **Active Initiatives:** Developing production-grade web applications and exploring browser-native multimedia processing
 
----
-
-### GitHub Trophies
-
 <p align="center">
-  <img src="./trophy.svg" alt="GitHub Profile Trophies" />
+  <code>+----------------------- ◆ -----------------------+</code>
 </p>
 
----
+### // RELIC VAULT
 
-### Featured Projects
+<p align="center">
+  <img src="./trophy.svg" alt="Dungeon Reliquary - Trophies" />
+</p>
+
+<p align="center">
+  <code>+----------------------- ◆ -----------------------+</code>
+</p>
+
+### // EXPEDITIONS & CLEARED RAIDS
 
 <table width="100%">
   <tr>
@@ -87,9 +96,11 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
   </tr>
 </table>
 
----
+<p align="center">
+  <code>+----------------------- ◆ -----------------------+</code>
+</p>
 
-### Technical Skills
+### // ARSENAL & FORGED STACK
 
 <h4 align="center">Frontend & UI Engineering</h4>
 <p align="center">
@@ -119,14 +130,21 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
 
 <br />
 
+<!-- FLAVOR MONOLITH INSCRIPTION -->
+<p align="center">
+  <i>"Architecture is not merely what is built in the light, but what remains resilient in the dark."</i>
+</p>
+
 <!-- MID CHECKPOINT -->
 <p align="center">
   <img src="./assets/dungeon-bonfire.gif" width="100%" alt="Campfire Checkpoint" />
 </p>
 
----
+<p align="center">
+  <code>+----------------------- ◆ -----------------------+</code>
+</p>
 
-### GitHub Activity & Analytics
+### // TELEMETRY & COMBAT CHRONICLE
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-extended.vercel.app/api?username=R16-Code&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=f85149&text_color=8b949e&icon_color=da3633&hide_border=false" alt="GitHub Stats" />
@@ -141,9 +159,11 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
   <img src="https://komarev.com/ghpvc/?username=R16-Code&color=da3633&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <code>+----------------------- ◆ -----------------------+</code>
+</p>
 
-### Connect
+### // SUMMONING CIRCLE & DISPATCH
 
 <p align="center">
   <a href="mailto:ridhonurmaulana25@gmail.com">
