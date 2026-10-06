@@ -70,7 +70,7 @@ Information System student at **UPN "Veteran" Yogyakarta** focusing on frontend 
       </p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=white&labelColor=82071e" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=white&labelColor=82071e" alt="CSS3" />
+        <img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css&logoColor=white&labelColor=82071e" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white&labelColor=82071e" alt="JavaScript" /><br />
         <img src="https://img.shields.io/badge/Google_Maps-161b22?style=flat-square&logo=googlemaps&logoColor=white&labelColor=82071e" alt="Google Maps" />
         <img src="https://img.shields.io/badge/WhatsApp_API-161b22?style=flat-square&logo=whatsapp&logoColor=white&labelColor=82071e" alt="WhatsApp API" />
